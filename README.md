@@ -1,3 +1,6 @@
+
+[![](https://visitcount.itsvg.in/api?id=harshalwasnik22&icon=8&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on MERN <br>👯 I’m lo<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -13,6 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalwasnik22&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshalwasnik22&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
