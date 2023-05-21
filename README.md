@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=harshalwasnik22&icon=8&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently studying Computer Science in National Insitute of Technology, Raipur<br>🌱 I’m currently learning MERN<br>💬 Ask me about DSA<br>⚡ Fun fact <h1 align="center">"The more you learn, the more you know you don't know." - Socrates </h1>
+🔭 I’m currently studying Computer Science in National Insitute of Technology, Raipur<br>🌱 I’m currently learning MERN<br>💬 Ask me about DSA<br>⚡ Fun fact <h3 align="center">"The more you learn, the more you know you don't know." - Socrates </h3>
 
 
 ## 🌐 Socials:
