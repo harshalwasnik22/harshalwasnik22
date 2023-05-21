@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=harshalwasnik22&icon=8&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on MERN <br>👯 I’m lo<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying Computer Science in National Insitute of Technology, Raipur<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN<br>💬 Ask me about DSA<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
